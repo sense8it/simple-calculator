@@ -1,10 +1,17 @@
-body{
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-	padding: 0px;
-    margin: 0px;
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 0px;
+  margin: 0px;
 }
 
 #conteiner {
-    margin: 20px auto;
-    text-align: center;
+  margin: 20px auto;
+  text-align: center;
+}
+
+#calc {
+}
+
+#resultOutput {
+  padding: 30px;
 }
